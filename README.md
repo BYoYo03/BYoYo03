@@ -1,88 +1,12 @@
-👋 Hi, I'm Bahir Boudouma Lambarki!
-Data · IT Project Management · Applied AI
-
-Computer Science, Networks & Telecom Engineering Student @ IMT Nord Europe — Class of 2027 5G Deployment & Data Project Lead (apprentice) @ Orange
-
-LinkedIn Email
-
-I turn operational data into decision-making tools: Power BI dashboards, Python automation and real-time IoT solutions. At Orange, I coordinate the 5G rollout across 70+ sites and build the reporting tools my team relies on.
-
-🌍 Trilingual: French · Spanish · English
-
-🧠 Selected Projects
-Junu — Real-Time IoT Building Monitoring
-
-Internship project @ ARCHIDATA Africa, Marrakech (2026)
-
-A web application that monitors building environmental data in real time (temperature, humidity, CO₂).
-
-Interactive building dashboard with 3D view and room-level heat maps.
-IoT sensor architecture simulated with Wokwi, ESP32 and DHT22 before physical deployment.
-
-Stack: Python · JavaScript · HTML/CSS · ESP32 · IoT
-
-Plantar Activity Recognition — Deep Learning for Multimodal Time Series
-
-Team project with @MatysLep · private repository
-
-Classifying 31 human activities from plantar pressure and inertial sensor data (32 subjects, ~4.6M samples).
-
-Data cleaning, per-subject normalisation and sliding-window preprocessing.
-Compared five PyTorch architectures (LSTM, TCN, CNN-BiLSTM, multi-branch fusion) with GroupKFold by subject.
-Best model: 69.7% accuracy, +13 points over the baseline.
-
-Stack: Python · PyTorch · Pandas · NumPy · scikit-learn
-
-Server Monitoring Interface — Networking & Systems
-
-A client-server system, inspired by SNMP, to monitor and diagnose remote machines from a desktop interface.
-
-Python servers answering system commands (CPU, RAM, OS, IP, ping…) over TCP sockets.
-PyQt6 client to connect to several servers, send commands and keep a command history.
-
-Stack: Python · PyQt6 · Sockets · psutil
-
-Graph Algorithms & TSP Express — Optimisation
-
-Team project with @MatysLep
-
-Delivery route optimisation for the Travelling Salesperson Problem, with priority "Express" stops.
-
-Compared an exact brute-force search with the Christofides approximation (MST → matching → Eulerian → Hamiltonian tour).
-Graph algorithms implemented from scratch (Prim, Kruskal, Hierholzer) with Matplotlib visualisations.
-
-Stack: Python · NumPy · Matplotlib · Jupyter
-
-Java Adventure Game — Object-Oriented Programming
-
-A text-based adventure game: explore maps, fight enemies (including multi-enemy battles), collect items and switch special abilities.
-
-Class hierarchy for heroes (knight, wizard) and enemies, with game events logged to a file.
-Unit tests with JUnit 5, built with Maven.
-
-Stack: Java 17 · Maven · JUnit
-
-To-Do List — Web Development
-
-A lightweight to-do app in vanilla JavaScript with filters and localStorage persistence.
-
-Stack: HTML · CSS · JavaScript
-
-🛠️ Languages & Tools
-
-My Skills
-
-Afficher l'image Afficher l'image Afficher l'image Afficher l'image Afficher l'image
-
-Area	Technologies
-Data & BI	Power BI, SQL, advanced Excel, Pandas, NumPy, Matplotlib
-AI & Machine Learning	PyTorch, neural networks, time series classification
-Software Development	Java (OOP, JUnit, Maven), JavaScript, HTML/CSS, PyQt6, graph algorithms
-Cloud, IoT & Networks	AWS, ESP32, sensors, 4G/5G, network architecture
-Project Management	KPI tracking, financial reporting, stakeholder coordination
-📜 Certifications
-AWS Certified Cloud Practitioner
-Stormshield Network Administrator (CSNA)
-📫 Let's Connect
-LinkedIn: bahir-boudouma-lambarki
-Email: boudoumabahir@gmail.com
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007BB8,100:00C2FF&height=180&section=header&text=Bahir%20Boudouma%20Lambarki&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20%C2%B7%20IT%20Project%20Management%20%C2%B7%20Applied%20AI&descAlignY=58&descSize=18" width="100%"/> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00A8E8&center=true&vCenter=true&width=600&lines=Engineering+student+%40+IMT+Nord+Europe;Data+%26+5G+Project+Lead+%40+Orange;Turning+data+into+decisions+%F0%9F%93%8A" alt="Typing SVG" /> </p> <p align="center"> <a href="https://www.linkedin.com/in/bahir-boudouma-lambarki"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"/> <img src="https://img.shields.io/badge/🌍-FR_·_ES_·_EN-555?style=for-the-badge"/> </p>
+🛠️ Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,pytorch,java,js,html,css,aws,git,github,vscode&perline=10" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white"/> <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/> </p>
+🚀 Projects
+	Project	What it does
+📡	Junu	Real-time IoT monitoring of buildings (3D dashboard, heat maps)
+🧠	Plantar Activity Recognition	Deep learning on sensor data — 31 activities, 69.7% accuracy
+🖥️	Server Monitoring	Monitor remote machines (CPU, RAM, ping…) from a PyQt6 app
+🚚	TSP Express	Delivery route optimisation with graph algorithms
+⚔️	Java Adventure Game	Text-based RPG in Java (OOP, JUnit)
+✅	To-Do List	Vanilla JavaScript to-do app
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:007BB8&height=100&section=footer" width="100%"/>
